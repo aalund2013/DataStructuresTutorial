@@ -1,0 +1,9 @@
+This is a paragraph with lots of random sentences (fun!).
+It's purpose is to aid in an example of using a stack).
+[Finding a balance in (), [], and {} can be so) easy!]
+(If you {aren't having fun yet}, perhaps you are trying (TOO) hard?)
+}Now, let's have [some{ (FUN!]
+HI
+({[{({[[{(({[]}))}]]})}]})
+({[{({[[{(({[]}))}]]})}]}))
+()(
