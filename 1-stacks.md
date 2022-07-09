@@ -1,3 +1,5 @@
+[Back to Welcome Page](0-welcome.md)
+
 # Stacks
 
 When learning about stacks it is helpful to think about a stack of items - like plates. The plates on the bottom will be the last plates to be used, while those on top will be the first. In a stack the First In Last Out (FILO) method is used (or Last In First Out (LIFO)).
@@ -22,7 +24,7 @@ In Python, the top of the stack is called the back of the stack. Stacks are a gr
 | empty()         | if len(stack) == 0: | Returns true if stack is empty              |
 | peek()          | stack[0]            | Returns value from back of stack            |
 
-### Real world use-cases
+## Real world use-cases
 
 As mentioned before, the back button on the browser functions as a stack. Other common uses of a stack include the undo feature (ctrl+z), nested function calls and recursion, checking for balanced parenthesis, and the memory in your computer. When working with recursion or nested function calls, the first function called goes to the bottom of the stack while each subsequent function call gets added to the top.
 
@@ -111,7 +113,7 @@ To apply this skill, try writing a program that utilizes a stack to return any g
 | Into the unknown!        | !nownknu eht otnI        |
 | I'll be a happy snowman! | !namwons yppah a eb ll'I |
 
-Find the solution on my [Github]()
+Find the solution [here](https://github.com/aalund2013/DataStructuresTutorial/blob/main/stringReverse.py).
 
 ### Resources Used
 
