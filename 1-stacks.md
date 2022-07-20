@@ -113,7 +113,7 @@ To apply this skill, try writing a program that utilizes a stack to return any g
 | Into the unknown!        | !nownknu eht otnI        |
 | I'll be a happy snowman! | !namwons yppah a eb ll'I |
 
-Find the solution [here](https://github.com/aalund2013/DataStructuresTutorial/blob/main/stringReverse.py).
+Find the solution [here](stackExample.py).
 
 ### Resources Used
 

@@ -158,7 +158,7 @@ print(list(lnkList.traverse_ll()))
 
 Your challenge is to extend the above code to traverse the list to find the values that do not belong in the list and remove them. Have fun and check out the solution if you get stuck!
 
-Linked List challenge [solution](https://github.com/aalund2013/DataStructuresTutorial/blob/main/linkedListSolution.py).
+Linked List challenge [solution](LinkedListDemo.py).
 
 ### Resources Used
 
